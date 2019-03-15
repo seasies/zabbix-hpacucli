@@ -80,7 +80,7 @@ diskstat() {
 }
 
 help() {
-		echo "Valid options : ctrlstats , diskstat , version"
+		echo "Valid options : ctrlstat , diskstat , version"
 		echo "Fork me : https://github.com/Ara4Sh/zabbix-hpacucli"
 }
 
